@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/izabelliribeiro" target="_blank">
+  <a href="https://www.linkedin.com/in/izabelliribeiro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
 </div>
@@ -42,9 +42,3 @@
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/izaabs/izaabs/output/snake.svg" alt="Snake animation" />
-
-###
