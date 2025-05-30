@@ -24,19 +24,19 @@
 
 ###
 
-<p align="center">·˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧</p>
+<h6 align="left">⭐️Um pouco mais sobre meu profissional:</h6>
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/izabelliribeiro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="center">·˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧꒰**꒱୨୧*˚··˚*୨୧</p>
 
 ###
 
