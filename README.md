@@ -46,6 +46,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/izaabs/izaabs/output/snake.svg" alt="Snake animation" />
-![Snake animation](https://github.com/izaabs/izaabs/blob/output/github-contribution-grid-snake.svg)
 
 ###
