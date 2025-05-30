@@ -12,7 +12,7 @@ jobs:
       - name: GitHub Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: seu-usuario
+          github_user_name: izaabs
           outputs: |
             ./github-contribution-grid-snake.svg
 
